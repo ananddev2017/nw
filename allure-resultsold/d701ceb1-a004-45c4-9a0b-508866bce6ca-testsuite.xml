@@ -1,0 +1,85 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1498020000000' stop='1498020015800'>
+    <name>Default Suite</name>
+    <title>Default Suite</title>
+    <test-cases>
+        <test-case start='1498020000000' status='passed' stop='1498020015800'>
+            <name>googlePageObject</name>
+            <title>googlePageObject</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1498020000000' status='passed' stop='1498020015800'>
+                    <name>Demo Google search test using page objects</name>
+                    <title>Demo Google search test using page objects</title>
+                    <attachments/>
+                    <steps>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Expected element &lt;input[name=q]> to be enabled</name>
+                            <title>Expected element &lt;input[name=q]> to be enabled</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Element &lt;[type=submit]> was visible after 63 milliseconds.</name>
+                            <title>Element &lt;[type=submit]> was visible after 63 milliseconds.</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Expected element &lt;#ires> to be present after 2000ms - element was present in 12ms</name>
+                            <title>Expected element &lt;#ires> to be present after 2000ms - element was present in 12ms</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Expected element &lt;#ires> text to contain: "Nightwatch.js"</name>
+                            <title>Expected element &lt;#ires> text to contain: "Nightwatch.js"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Expected element &lt;#hdtb-msb> to be visible</name>
+                            <title>Expected element &lt;#hdtb-msb> to be visible</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Expected element &lt;Section[name=menu],Element[name=@web]> to be visible</name>
+                            <title>Expected element &lt;Section[name=menu],Element[name=@web]> to be visible</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Expected element &lt;Section[name=menu],Element[name=@video]> to be visible</name>
+                            <title>Expected element &lt;Section[name=menu],Element[name=@video]> to be visible</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Expected element &lt;Section[name=menu],Element[name=@images]> to be visible</name>
+                            <title>Expected element &lt;Section[name=menu],Element[name=@images]> to be visible</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Expected element &lt;Section[name=menu],Element[name=@shopping]> to be visible</name>
+                            <title>Expected element &lt;Section[name=menu],Element[name=@shopping]> to be visible</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1498020000000' status='passed' stop='1498020015800'>
+                            <name>Passed [ok]: Web results are shown by default on search results page</name>
+                            <title>Passed [ok]: Web results are shown by default on search results page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Reported Result' source='b884efa2-3f8e-4b97-a242-6fc5dae8f379-attachment.json' type='application/json' size='1654'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

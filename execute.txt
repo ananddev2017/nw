@@ -1,0 +1,11 @@
+F:\NightWatch_OUA>node Runner.js -t src\google.js
+
+F:\NightWatch_OUA>node conf.js -t src\google.js
+
+
+
+# Run using custom runner
+./scripts/local.runner.js -c conf/local.conf.js
+
+//browser stack exe
+node local.runner.js -c local.conf.js

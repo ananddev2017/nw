@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="sc_Landing_Spec"
+    errors="0" failures="0" hostname="" id="" package="sc_Landing_Spec" skipped="0"
+    tests="1" time="22.90" timestamp="Fri, 14 Jul 2017 03:48:20 GMT">
+  
+    <testcase name="Site Core Landing Page" classname="sc_Landing_Spec" time="22.90" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

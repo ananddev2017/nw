@@ -1,0 +1,260 @@
+09:18:01.402 INFO - Selenium build info: version: '3.4.0', revision: 'unknown'
+09:18:01.402 INFO - Launching a standalone Selenium Server
+2017-07-14 09:18:01.417:INFO::main: Logging initialized @184ms to org.seleniumhq.jetty9.util.log.StdErrLog
+09:18:01.448 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+09:18:01.448 INFO - Driver provider com.opera.core.systems.OperaDriver registration is skipped:
+Unable to create new instances on this machine.
+09:18:01.448 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+09:18:01.448 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+09:18:01.448 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+ registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform WIN10
+2017-07-14 09:18:01.480:INFO:osjs.Server:main: jetty-9.4.3.v20170317
+2017-07-14 09:18:01.511:INFO:osjsh.ContextHandler:main: Started o.s.j.s.ServletContextHandler@14acaea5{/,null,AVAILABLE}
+2017-07-14 09:18:01.573:INFO:osjs.AbstractConnector:main: Started ServerConnector@5bcab519{HTTP/1.1,[http/1.1]}{0.0.0.0:4444}
+2017-07-14 09:18:01.573:INFO:osjs.Server:main: Started @346ms
+09:18:01.573 INFO - Selenium Server is up and running
+09:18:01.745 INFO - SessionCleaner initialized with insideBrowserTimeout 0 and clientGoneTimeout 1800000 polling every 180000
+09:18:01.761 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Neg Scenario, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+09:18:01.777 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Neg Scenario, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver 2.28.455520 (cc17746adff54984afff480136733114c6b3704b) on port 40657
+Only local connections are allowed.
+09:18:03.870 INFO - Detected dialect: OSS
+09:18:03.885 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Neg Scenario, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+09:18:03.901 INFO - Executing: [get: https://test.salesforce.com/])
+09:18:13.894 INFO - Done: [get: https://test.salesforce.com/]
+09:18:13.904 INFO - Executing: [find elements: By.cssSelector: input[id=username]])
+09:18:13.927 INFO - Done: [find elements: By.cssSelector: input[id=username]]
+09:18:13.927 INFO - Executing: [is enabled: 0 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=username]]])
+09:18:13.942 INFO - Done: [is enabled: 0 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=username]]]
+09:18:13.958 INFO - Executing: [find element: By.cssSelector: input[id=username]])
+09:18:13.974 INFO - Done: [find element: By.cssSelector: input[id=username]]
+09:18:13.974 INFO - Executing: [send keys: 0 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=username]], [r, e, a, r, a, s, a, n, i, @, o, p, e, n, ., e, d, u, ., a, u, ., p, a, ., t, s, t]])
+09:18:14.105 INFO - Done: [send keys: 0 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=username]], [r, e, a, r, a, s, a, n, i, @, o, p, e, n, ., e, d, u, ., a, u, ., p, a, ., t, s, t]]
+09:18:14.109 INFO - Executing: [find element: By.cssSelector: input[id=password]])
+09:18:14.130 INFO - Done: [find element: By.cssSelector: input[id=password]]
+09:18:14.135 INFO - Executing: [send keys: 1 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=password]], [S, o, r, c, e, @, 1, 2, 3, !]])
+09:18:14.191 INFO - Done: [send keys: 1 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=password]], [S, o, r, c, e, @, 1, 2, 3, !]]
+09:18:14.199 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:14.217 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:14.224 INFO - Executing: [is displayed: 2 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=Login]]])
+09:18:14.248 INFO - Done: [is displayed: 2 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=Login]]]
+09:18:14.255 INFO - Executing: [find element: By.cssSelector: input[id=Login]])
+09:18:14.276 INFO - Done: [find element: By.cssSelector: input[id=Login]]
+09:18:14.284 INFO - Executing: [click: 2 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=Login]]])
+09:18:15.684 INFO - Done: [click: 2 [[ChromeDriver: chrome on XP (67958d60c593d3196078472d72cb155e)] -> css selector: input[id=Login]]]
+09:18:15.692 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:15.703 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:16.215 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:16.215 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:16.732 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:16.732 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:17.250 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:17.250 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:17.767 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:17.767 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:18.285 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:18.300 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:18.818 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:18.833 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:18.833 INFO - Executing: [take screenshot])
+09:18:19.116 INFO - Done: [take screenshot]
+09:18:19.163 INFO - Executing: [delete session: fe99fc18-7044-4f30-b9e6-1eb2816f44ed])
+09:18:20.022 INFO - Done: [delete session: fe99fc18-7044-4f30-b9e6-1eb2816f44ed]
+09:18:20.038 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Sc Landing Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+09:18:20.038 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Sc Landing Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver 2.28.455520 (cc17746adff54984afff480136733114c6b3704b) on port 35995
+Only local connections are allowed.
+09:18:21.909 INFO - Detected dialect: OSS
+09:18:21.909 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Sc Landing Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+09:18:21.925 INFO - Executing: [get: http://sitecore-test.tools.opendev.edu.au/])
+09:18:27.323 INFO - Done: [get: http://sitecore-test.tools.opendev.edu.au/]
+09:18:27.327 INFO - Executing: [find elements: By.cssSelector: body])
+09:18:27.348 INFO - Done: [find elements: By.cssSelector: body]
+09:18:27.352 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> css selector: body]])
+09:18:27.370 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> css selector: body]]
+09:18:30.379 INFO - Executing: [find elements: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a])
+09:18:30.399 INFO - Done: [find elements: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]
+09:18:30.401 INFO - Executing: [is displayed: 1 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]])
+09:18:30.419 INFO - Done: [is displayed: 1 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]]
+09:18:30.424 INFO - Executing: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[1]/a])
+09:18:30.446 INFO - Done: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[1]/a]
+09:18:30.450 INFO - Executing: [is displayed: 2 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[1]/a]])
+09:18:30.468 INFO - Done: [is displayed: 2 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[1]/a]]
+09:18:30.474 INFO - Executing: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[2]/a])
+09:18:30.494 INFO - Done: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[2]/a]
+09:18:30.497 INFO - Executing: [is displayed: 3 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[2]/a]])
+09:18:30.515 INFO - Done: [is displayed: 3 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[2]/a]]
+09:18:30.520 INFO - Executing: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[3]/a])
+09:18:30.538 INFO - Done: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[3]/a]
+09:18:30.541 INFO - Executing: [is displayed: 4 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[3]/a]])
+09:18:30.558 INFO - Done: [is displayed: 4 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[3]/a]]
+09:18:30.564 INFO - Executing: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[4]/a])
+09:18:30.584 INFO - Done: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[4]/a]
+09:18:30.588 INFO - Executing: [is displayed: 5 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[4]/a]])
+09:18:30.605 INFO - Done: [is displayed: 5 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[4]/a]]
+09:18:30.610 INFO - Executing: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[5]/a])
+09:18:30.630 INFO - Done: [find elements: By.xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[5]/a]
+09:18:30.633 INFO - Executing: [is displayed: 6 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[5]/a]])
+09:18:30.650 INFO - Done: [is displayed: 6 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapseb4d87e66-d2c5-4c06-8f9a-08aeaf38055a"]/div/ul/li[5]/a]]
+09:18:30.655 INFO - Executing: [find elements: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[2]/a])
+09:18:30.673 INFO - Done: [find elements: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[2]/a]
+09:18:30.676 INFO - Executing: [is displayed: 7 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[2]/a]])
+09:18:30.694 INFO - Done: [is displayed: 7 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[2]/a]]
+09:18:30.699 INFO - Executing: [find elements: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[3]/a])
+09:18:30.718 INFO - Done: [find elements: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[3]/a]
+09:18:30.721 INFO - Executing: [is displayed: 8 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[3]/a]])
+09:18:30.739 INFO - Done: [is displayed: 8 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[3]/a]]
+09:18:30.746 INFO - Executing: [find elements: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a])
+09:18:30.754 INFO - Done: [find elements: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]
+09:18:30.757 INFO - Executing: [is displayed: 1 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]])
+09:18:30.766 INFO - Done: [is displayed: 1 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]]
+09:18:30.771 INFO - Executing: [find element: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a])
+09:18:30.790 INFO - Done: [find element: By.xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]
+09:18:30.795 INFO - Executing: [click: 1 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]])
+09:18:42.920 INFO - Done: [click: 1 [[ChromeDriver: chrome on XP (b675ff3e72af656a83564fa55d5a18b6)] -> xpath: //*[@id="collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7"]/div/ul/li[1]/a]]
+09:18:42.941 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Sc Lead Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+09:18:42.942 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Sc Lead Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver 2.28.455520 (cc17746adff54984afff480136733114c6b3704b) on port 17023
+Only local connections are allowed.
+09:18:44.837 INFO - Detected dialect: OSS
+09:18:44.853 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Sc Lead Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+09:18:44.853 INFO - Executing: [get: http://sitecore-test.tools.opendev.edu.au/Catalog/Courses/Bachelor-of-Business])
+09:18:50.519 INFO - Done: [get: http://sitecore-test.tools.opendev.edu.au/Catalog/Courses/Bachelor-of-Business]
+09:18:50.523 INFO - Executing: [find elements: By.cssSelector: body])
+09:18:50.552 INFO - Done: [find elements: By.cssSelector: body]
+09:18:50.555 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on XP (0286b0928e331d24a0541206539b0c89)] -> css selector: body]])
+09:18:50.565 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on XP (0286b0928e331d24a0541206539b0c89)] -> css selector: body]]
+09:18:50.565 INFO - Executing: [find elements: By.cssSelector: input[id=wffmc5d3dd63055f4169ba39419a3d614f09_Sections_0__Fields_0__Value]])
+09:18:50.592 INFO - Done: [find elements: By.cssSelector: input[id=wffmc5d3dd63055f4169ba39419a3d614f09_Sections_0__Fields_0__Value]]
+09:18:50.599 INFO - Executing: [take screenshot])
+09:18:50.846 INFO - Done: [take screenshot]
+09:18:50.862 INFO - Executing: [delete session: 1e7a8b93-979f-43d9-bcb2-d284522eb4fd])
+09:18:51.596 INFO - Done: [delete session: 1e7a8b93-979f-43d9-bcb2-d284522eb4fd]
+09:18:51.612 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Sf Login Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+09:18:51.612 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Sf Login Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver 2.28.455520 (cc17746adff54984afff480136733114c6b3704b) on port 13784
+Only local connections are allowed.
+09:18:53.502 INFO - Detected dialect: OSS
+09:18:53.502 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Sf Login Spec, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+09:18:53.502 INFO - Executing: [get: https://test.salesforce.com/])
+09:18:59.650 INFO - Done: [get: https://test.salesforce.com/]
+09:18:59.654 INFO - Executing: [find elements: By.cssSelector: input[id=username]])
+09:18:59.674 INFO - Done: [find elements: By.cssSelector: input[id=username]]
+09:18:59.677 INFO - Executing: [is enabled: 0 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=username]]])
+09:18:59.692 INFO - Done: [is enabled: 0 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=username]]]
+09:18:59.698 INFO - Executing: [find element: By.cssSelector: input[id=username]])
+09:18:59.710 INFO - Done: [find element: By.cssSelector: input[id=username]]
+09:18:59.710 INFO - Executing: [send keys: 0 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=username]], [k, t, h, a, d, i, s, i, n, a, @, o, p, e, n, ., e, d, u, ., a, u, ., p, a, ., t, s, t]])
+09:18:59.835 INFO - Done: [send keys: 0 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=username]], [k, t, h, a, d, i, s, i, n, a, @, o, p, e, n, ., e, d, u, ., a, u, ., p, a, ., t, s, t]]
+09:18:59.838 INFO - Executing: [find element: By.cssSelector: input[id=password]])
+09:18:59.857 INFO - Done: [find element: By.cssSelector: input[id=password]]
+09:18:59.861 INFO - Executing: [send keys: 1 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=password]], [@, a, s, d, f, g, h, 1, $]])
+09:18:59.936 INFO - Done: [send keys: 1 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=password]], [@, a, s, d, f, g, h, 1, $]]
+09:18:59.939 INFO - Executing: [find elements: By.cssSelector: input[id=Login]])
+09:18:59.959 INFO - Done: [find elements: By.cssSelector: input[id=Login]]
+09:18:59.963 INFO - Executing: [is displayed: 2 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=Login]]])
+09:18:59.982 INFO - Done: [is displayed: 2 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=Login]]]
+09:18:59.988 INFO - Executing: [find element: By.cssSelector: input[id=Login]])
+09:19:00.007 INFO - Done: [find element: By.cssSelector: input[id=Login]]
+09:19:00.012 INFO - Executing: [click: 2 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=Login]]])
+09:19:09.152 INFO - Done: [click: 2 [[ChromeDriver: chrome on XP (9ea801f78ad8963878ebc043c27e6593)] -> css selector: input[id=Login]]]
+09:19:09.156 INFO - Executing: [find elements: By.cssSelector: input[id=221:0;p]])
+09:19:09.442 WARN - Exception thrown
+org.openqa.selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'ESW009', ip: '192.168.2.116', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\ein0020\AppData\Local\Temp\scoped_dir11196_7589}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9ea801f78ad8963878ebc043c27e6593
+*** Element info: {Using=css selector, value=input[id=221:0;p]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:671)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:437)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByCssSelector(RemoteWebDriver.java:505)
+	at org.openqa.selenium.By$ByCssSelector.findElements(By.java:441)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:398)
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:104)
+	at com.sun.proxy.$Proxy4.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:177)
+	at org.openqa.selenium.remote.server.handler.FindElements.call(FindElements.java:50)
+	at org.openqa.selenium.remote.server.handler.FindElements.call(FindElements.java:35)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+09:19:09.445 WARN - Exception: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'ESW009', ip: '192.168.2.116', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\ein0020\AppData\Local\Temp\scoped_dir11196_7589}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9ea801f78ad8963878ebc043c27e6593
+*** Element info: {Using=css selector, value=input[id=221:0;p]}
+09:19:09.976 INFO - Executing: [find elements: By.cssSelector: input[id=221:0;p]])
+09:19:13.351 WARN - Exception thrown
+org.openqa.selenium.InvalidSelectorException: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'ESW009', ip: '192.168.2.116', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\ein0020\AppData\Local\Temp\scoped_dir11196_7589}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9ea801f78ad8963878ebc043c27e6593
+*** Element info: {Using=css selector, value=input[id=221:0;p]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:671)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:437)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByCssSelector(RemoteWebDriver.java:505)
+	at org.openqa.selenium.By$ByCssSelector.findElements(By.java:441)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:398)
+	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:104)
+	at com.sun.proxy.$Proxy4.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:177)
+	at org.openqa.selenium.remote.server.handler.FindElements.call(FindElements.java:50)
+	at org.openqa.selenium.remote.server.handler.FindElements.call(FindElements.java:35)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+09:19:13.352 WARN - Exception: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'ESW009', ip: '192.168.2.116', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.28.455520 (cc17746adff54984afff480136733114c6b3704b), userDataDir=C:\Users\ein0020\AppData\Local\Temp\scoped_dir11196_7589}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=59.0.3071.115, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 9ea801f78ad8963878ebc043c27e6593
+*** Element info: {Using=css selector, value=input[id=221:0;p]}
+09:19:13.369 INFO - Executing: [take screenshot])
+09:19:17.293 INFO - Done: [take screenshot]
+09:19:17.301 INFO - Executing: [delete session: aaec4c56-de6f-4045-823c-fa23536ad5fe])
+09:19:18.164 INFO - Done: [delete session: aaec4c56-de6f-4045-823c-fa23536ad5fe]

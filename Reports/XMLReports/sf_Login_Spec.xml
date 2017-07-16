@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="sf_Login_Spec"
+    errors="1" failures="0" hostname="" id="" package="sf_Login_Spec" skipped="0"
+    tests="1" time="0.01100" timestamp="Mon, 10 Jul 2017 04:38:15 GMT">
+  
+    <testcase name="Sales force Login" classname="sf_Login_Spec" time="0.01100" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Sf Login Spec / Sales force Login]:
+
+  TypeError: Cannot read property 'waitForElementVisible' of undefined
+    at Object.Sales force Login (F:\NightWatch_OUA\Regression\sf_Login_Spec.js:12:24)
+    at Module.call (F:\NightWatch_OUA\lib\nightwatch\lib\runner\module.js:62:34)
+    at F:\NightWatch_OUA\lib\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (F:\NightWatch_OUA\lib\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (F:\NightWatch_OUA\lib\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (F:\NightWatch_OUA\lib\nightwatch\node_modules\q\q.js:796:13)
+    at F:\NightWatch_OUA\lib\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (F:\NightWatch_OUA\lib\nightwatch\node_modules\q\q.js:137:13)
+    at flush (F:\NightWatch_OUA\lib\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:95:7)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

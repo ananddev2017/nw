@@ -1,0 +1,202 @@
+{
+  "uid" : "f3b5b5e205859697",
+  "name" : "googlePageObject",
+  "fullName" : "Default Suite.googlePageObject",
+  "historyId" : "317f720c189c2ff9f7235c6a51d7564a",
+  "time" : {
+    "start" : 1498020000000,
+    "stop" : 1498020015800,
+    "duration" : 15800
+  },
+  "status" : "passed",
+  "description" : "",
+  "descriptionHtml" : "",
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Demo Google search test using page objects",
+      "time" : {
+        "start" : 1498020000000,
+        "stop" : 1498020015800,
+        "duration" : 15800
+      },
+      "status" : "passed",
+      "hasContent" : true,
+      "stepsCount" : 10,
+      "attachmentsCount" : 0,
+      "steps" : [ {
+        "name" : "Expected element <input[name=q]> to be enabled",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Element <[type=submit]> was visible after 63 milliseconds.",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Expected element <#ires> to be present after 2000ms - element was present in 12ms",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Expected element <#ires> text to contain: \"Nightwatch.js\"",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Expected element <#hdtb-msb> to be visible",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Expected element <Section[name=menu],Element[name=@web]> to be visible",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Expected element <Section[name=menu],Element[name=@video]> to be visible",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Expected element <Section[name=menu],Element[name=@images]> to be visible",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Expected element <Section[name=menu],Element[name=@shopping]> to be visible",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      }, {
+        "name" : "Passed [ok]: Web results are shown by default on search results page",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ]
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ]
+    } ],
+    "attachments" : [ {
+      "uid" : "802429258014975e",
+      "name" : "Reported Result",
+      "source" : "802429258014975e.json",
+      "type" : "application/json",
+      "size" : 1654
+    } ],
+    "hasContent" : true,
+    "stepsCount" : 11,
+    "attachmentsCount" : 1
+  },
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Default Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "googlePageObject"
+  }, {
+    "name" : "package",
+    "value" : "Default Suite"
+  } ],
+  "parameters" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ]
+  }
+}

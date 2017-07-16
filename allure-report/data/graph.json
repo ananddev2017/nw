@@ -1,0 +1,11 @@
+[ {
+  "uid" : "f3b5b5e205859697",
+  "name" : "googlePageObject",
+  "time" : {
+    "start" : 1498020000000,
+    "stop" : 1498020015800,
+    "duration" : 15800
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

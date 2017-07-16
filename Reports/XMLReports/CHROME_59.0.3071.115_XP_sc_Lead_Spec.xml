@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="sc_Lead_Spec"
+    errors="0" failures="1" hostname="" id="" package="sc_Lead_Spec" skipped="0"
+    tests="1" time="8.664" timestamp="Fri, 14 Jul 2017 03:48:42 GMT">
+  
+    <testcase name="Site Core Login" classname="sc_Lead_Spec" time="8.664" assertions="2">
+
+      <failure message="Expected element &lt;input[id=wffmc5d3dd63055f4169ba39419a3d614f09_Sections_0__Fields_0__Value]&gt; to be enabled - element was not found">    at Object.element (F:\NightWatch_OUA\lib\nightwatch\lib\page-object\command-wrapper.js:117:25)
+    at Object.Site Core Login (F:\NightWatch_OUA\Regression\sc_Lead_Spec.js:6:23)
+    at Module.call (F:\NightWatch_OUA\lib\nightwatch\lib\runner\module.js:62:34)
+    at F:\NightWatch_OUA\lib\nightwatch\lib\runner\testcase.js:70:29</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

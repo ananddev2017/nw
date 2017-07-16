@@ -1,0 +1,72 @@
+{
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  },
+  "time" : {
+    "minDuration" : 15800,
+    "maxDuration" : 15800,
+    "sumDuration" : 15800,
+    "start" : 1498020000000,
+    "stop" : 1498020015800,
+    "duration" : 15800
+  },
+  "children" : [ {
+    "uid" : "51b6b87e25b025e2",
+    "name" : "Default feature",
+    "time" : {
+      "minDuration" : 15800,
+      "maxDuration" : 15800,
+      "sumDuration" : 15800,
+      "start" : 1498020000000,
+      "stop" : 1498020015800,
+      "duration" : 15800
+    },
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "7f8fbd954e3ef1f8",
+      "name" : "Default story",
+      "time" : {
+        "minDuration" : 15800,
+        "maxDuration" : 15800,
+        "sumDuration" : 15800,
+        "start" : 1498020000000,
+        "stop" : 1498020015800,
+        "duration" : 15800
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "f3b5b5e205859697",
+        "name" : "googlePageObject",
+        "time" : {
+          "start" : 1498020000000,
+          "stop" : 1498020015800,
+          "duration" : 15800
+        },
+        "status" : "passed",
+        "flaky" : false,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  } ]
+}

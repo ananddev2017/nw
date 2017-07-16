@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="Campus_Login_Spec"
+    errors="0" failures="0" hostname="" id="" package="Campus_Login_Spec" skipped="0"
+    tests="1" time="39.56" timestamp="Fri, 14 Jul 2017 03:46:47 GMT">
+  
+    <testcase name="People soft" classname="Campus_Login_Spec" time="39.56" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

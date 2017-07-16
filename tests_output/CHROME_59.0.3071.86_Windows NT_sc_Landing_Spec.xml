@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="sc_Landing_Spec"
+    errors="0" failures="1" hostname="" id="" package="sc_Landing_Spec" skipped="0"
+    tests="1" time="30.66" timestamp="Thu, 13 Jul 2017 13:01:27 GMT">
+  
+    <testcase name="Site Core Landing Page" time="30.66" assertions="2">
+
+      <failure message="Timed out while waiting for element &lt;//*[@id=&quot;collapsefb1e4810-6d89-4f1e-a47b-70478fe32da7&quot;]/div/ul/li[1]/a&gt; to be visible for 200 milliseconds.">    at Object.Site Core Landing Page (F:\NightWatch_OUA\Regression2\sc_Landing_Spec.js:8:4)
+    at Module.call (F:\NightWatch_OUA\node_modules\nightwatch\lib\runner\module.js:63:34)
+    at F:\NightWatch_OUA\node_modules\nightwatch\lib\runner\testcase.js:97:29
+    at _fulfilled (F:\NightWatch_OUA\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (F:\NightWatch_OUA\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (F:\NightWatch_OUA\node_modules\q\q.js:796:13)
+    at F:\NightWatch_OUA\node_modules\q\q.js:556:49
+    at runSingle (F:\NightWatch_OUA\node_modules\q\q.js:137:13)
+    at flush (F:\NightWatch_OUA\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:95:7)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
